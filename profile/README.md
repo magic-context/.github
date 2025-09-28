@@ -20,8 +20,8 @@ Think of it as giving AI assistants a **persistent memory** that understands not
 
 For those interested in creating AI specialists and understanding the Magic Context framework:
 
-- **📚 [Getting Started Guide](guides/getting_started.md)** - Critical initialization rules and workspace setup for AI specialist creation
-- **🎯 [Core Instructions Guide](guides/core-instructions.md)** - Complete workshop behavior guide and teaching methodology for AI specialist development
+- **📋 [Product Planning Guide](guides/product-planning-guide.md)** - Step-by-step guide for designing effective AI specialists before implementation
+- **⚙️ [Technical Implementation Guide](guides/technical-implementation-guide.md)** - Complete technical instructions for building AI specialists from scratch
 
 These guides provide comprehensive instructions for developers and creators working with Magic Context-powered AI specialists.
 
