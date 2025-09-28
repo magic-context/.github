@@ -16,6 +16,15 @@ Magic Context is **structured, persistent AI context** that creates a continuous
 
 Think of it as giving AI assistants a **persistent memory** that understands not just what you're asking for right now, but the full context of who you are, what you're building, and how you work best.
 
+## Developer & Creator Resources
+
+For those interested in creating AI specialists and understanding the Magic Context framework:
+
+- **📚 [Getting Started Guide](guides/getting_started.md)** - Critical initialization rules and workspace setup for AI specialist creation
+- **🎯 [Core Instructions Guide](guides/core-instructions.md)** - Complete workshop behavior guide and teaching methodology for AI specialist development
+
+These guides provide comprehensive instructions for developers and creators working with Magic Context-powered AI specialists.
+
 ## Powered Solutions
 
 Magic Context serves as the foundational framework powering innovative AI solutions:
@@ -173,6 +182,7 @@ Magic Context is currently in **private beta** with select users and organizatio
 2. **🧪 Beta Testing**: Working with power users to refine the experience
 3. **🏗️ Platform Development**: Building robust, scalable infrastructure
 4. **🤝 Partnership Development**: Integration with AI platforms and tools
+
 
 ### **Interested in Magic Context?**
 
